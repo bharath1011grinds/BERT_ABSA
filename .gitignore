@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+# Data (raw + generated)
+data/raw/
+data/processed/
+
+# Model checkpoints
+checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/

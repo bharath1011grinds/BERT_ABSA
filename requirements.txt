@@ -1,0 +1,9 @@
+torch
+numpy
+scikit-learn
+tqdm
+lxml
+kaggle
+datasets
+transformers >= 4.30.0
+tokenizers
